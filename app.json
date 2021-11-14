@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fishingbuzz",
-    "slug": "fishingbuzz",
+    "name": "Name",
+    "slug": "Slug",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
