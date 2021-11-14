@@ -11,10 +11,9 @@ The following package come with the following libraries added:
 To clone this package run the following command:
 
 ```bash
-npx degit quelchx/react-native my-app
+npx degit quelchx/lets-go-expo my-app
 cd my-app && npm install
 expo start
 ```
 
 If you have any issues please feel free to leave a detailed explination of the bug/issue within the issues section of this repository. 
-
