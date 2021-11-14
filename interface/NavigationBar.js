@@ -21,5 +21,3 @@ export default function NavigationBar() {
     </Tab.Navigator>
   );
 }
-
-// need to add other screens (sign up/sign in, feed, post, gallery)
