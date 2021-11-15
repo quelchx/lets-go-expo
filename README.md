@@ -18,3 +18,5 @@ expo start
 
 If you have any issues please feel free to leave a detailed explination of the bug/issue within the issues section of this repository. 
 
+To help me out, if you wish to make a modified version of this repository, make a forked version -- thank you!
+
